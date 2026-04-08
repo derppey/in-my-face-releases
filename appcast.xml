@@ -6,16 +6,16 @@
         <description>Updates for In My Face</description>
         <language>en</language>
         <item>
-            <title>Version 1.2.1</title>
-            <pubDate>Tue, 07 Apr 2026 20:59:21 -0700</pubDate>
+            <title>Version 1.2.2</title>
+            <pubDate>Tue, 07 Apr 2026 21:00:02 -0700</pubDate>
             <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>1.2.1</sparkle:shortVersionString>
+            <sparkle:shortVersionString>1.2.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/derppey/in-my-face-releases/releases/download/v1.2.1/InMyFace-1.2.1.dmg"
+                url="https://github.com/derppey/in-my-face-releases/releases/download/v1.2.2/InMyFace-1.2.2.dmg"
                 type="application/octet-stream"
-                sparkle:edSignature="WeItX/MS1VsOuj1MhuSMQ950JKrd4v58I5jM8pwBmDsYGTYe1C4ImEYrGLiIGVZeOBORu1hEJpeRvpfuJ1+5CQ=="
-                length="1531372"
+                sparkle:edSignature="Ulsv1nI5gxnFOecTVHDJW4bTmCPhGOW4Ra9DuJYNXhN78n6spoHg1KeDWyY0tkcWRX1QGaS8wjwVnLUn69PYBQ=="
+                length="1531417"
             />
         </item>
     </channel>
