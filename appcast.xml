@@ -7,15 +7,15 @@
         <language>en</language>
         <item>
             <title>Version 1.2.0</title>
-            <pubDate>Tue, 07 Apr 2026 20:21:32 -0700</pubDate>
-            <sparkle:version>2</sparkle:version>
+            <pubDate>Tue, 07 Apr 2026 20:41:45 -0700</pubDate>
+            <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure
                 url="https://github.com/derppey/in-my-face-releases/releases/download/v1.2.0/InMyFace-1.2.0.dmg"
                 type="application/octet-stream"
-                sparkle:edSignature="HPfEx1yUjC2UsNxMwiXFmJt8sc8J4v7Djz442V7f8faSVMYUoHRdebCpEf30RepK2iZs6alajy3DpyjmJvcBDA=="
-                length="1576024"
+                sparkle:edSignature="e+8baWGQuK01+2qOckteDL9zVPG1L01vLNOfePLJvT+2JHVp5/DwQlJERF7eAYAt+RvO6OGyDhv/HJy597xqBw=="
+                length="1577638"
             />
         </item>
     </channel>
